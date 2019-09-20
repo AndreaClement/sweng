@@ -6,4 +6,8 @@ public class HelloWorld {
   public static String computeUltimateQuestion() {
     return "still searching...";
   }
+
+  public static int computeUltimateAnswer() {
+    return 6 * 7;
+  }
 }
